@@ -1,5 +1,3 @@
-# Projects
-this is a mini project about a frontend photographic website.
 ## HTML
 Here add a html file
 ## CSS
